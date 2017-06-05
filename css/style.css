@@ -1,0 +1,45 @@
+header {
+  height: 100px;
+  background-color: #154321;
+  text-align: center;
+  ;
+}
+h1{
+  margin: 0;
+}
+
+.wrapper {
+  width: 1000px;
+  margin: auto;
+}
+
+Main {
+  Text-align: center;
+  <div style="width: 50%; float:left;">
+  <a href="images/text-before.jpg">
+  <img src="images/text-before.jpg">
+  </a>
+  <h4 style="text-align:center;">Before text improvements</h4>
+  </div>
+
+  <div style="width: 50%; float:left;"
+  <a href="images/text-after.jpg">
+  <img src="images/text-after.jpg">
+  </a>
+  <h4 style="text-align:center;">After text Improvements</h4>
+  </div>
+  img { width: 50%;}
+}
+
+.container-name {
+  background-image: url('images/pattern.jpg');
+  background-repeat: repeat;
+}
+
+Footer {
+  font-size: 26px;
+  Text-align: center;
+  
+  
+  
+}
